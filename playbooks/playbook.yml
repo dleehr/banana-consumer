@@ -1,0 +1,8 @@
+---
+- name: Run Banana
+  hosts: localhost
+  gather_facts: false
+  connection: local
+  become: false
+  roles:
+    - dleehr.banana.banana
