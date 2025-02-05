@@ -1,4 +1,4 @@
 collections:
 - name: dleehr.banana
   version: 0.0.1
-  source: https://dan-aap-dan.apps.aap-perf.ocp4.testing.ansible.com/api/galaxy/
+#   source: https://dan-aap-dan.apps.aap-perf.ocp4.testing.ansible.com/api/galaxy/
